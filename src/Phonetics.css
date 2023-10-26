@@ -3,19 +3,19 @@
 }
 
 .Phonetic a {
-  border: 1px solid #838399;
+  border: 1px solid white;
   text-decoration: none;
   padding: 8px 15px;
   font-size: 12px;
   margin-right: 10px;
   font-weight: bold;
   border-radius: 20px;
-  color: #838399;
+  color: white;
   transition: 150ms all ease-in-out;
 }
 .Phonetic a:hover {
-  color: white;
-  background: #838399;
+  color: #868ca1;
+  background: white;
 }
 .Phonetic .text {
   opacity: 0.7;

@@ -9,7 +9,16 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>Coded by Amina Ismail</footer>
+        <footer>
+          This page was coded by Amina Ismail and is{" "}
+          <a
+            href="https://github.com/Amina-Ismail/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open-sourced
+          </a>
+        </footer>
       </div>
     </div>
   );

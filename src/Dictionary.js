@@ -51,6 +51,7 @@ export default function Dictionary() {
               type="search"
               onChange={handleKeywordChange}
               defaultValue={keyword}
+              placeholder="Search for a word..."
             />
           </form>
           <div className="hint">

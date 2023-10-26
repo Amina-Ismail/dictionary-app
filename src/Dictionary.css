@@ -1,12 +1,14 @@
 .Dictionary section {
-  background: white;
+  background: rgb(255, 255, 255, 0.4);
+
   border-radius: 6px;
   padding: 30px;
   margin: 20px auto;
   box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+  color: white;
 }
 .Dictionary h1 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
 }
 .Dictionary input {
@@ -17,6 +19,6 @@
 }
 .Dictionary .hint {
   font-size: 12px;
-  opacity: 0.7;
+  opacity: 0.8;
   margin-top: 5px;
 }
